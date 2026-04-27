@@ -9,7 +9,7 @@ langchain-community>=0.2.12
 langchain-huggingface>=0.1.0
 faiss-cpu>=1.8.0
 pandas>=2.2.2
-gdown>=5.2.0
+gdown>=5.2.2
 langfuse>=2.38.0
 python-dotenv
 matplotlib>=3.8.0
